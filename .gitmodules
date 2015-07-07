@@ -1,0 +1,15 @@
+[submodule "page-object"]
+	path = page-object
+	url = git@github.com:builderworksco/page-object.git
+[submodule "TestPuppies"]
+	path = TestPuppies
+	url = git@github.com:builderworksco/TestPuppies.git
+[submodule "MortgageAffordExercise"]
+	path = MortgageAffordExercise
+	url = git@github.com:builderworksco/MortgageAffordExercise.git
+[submodule "te3270"]
+	path = te3270
+	url = git@github.com:builderworksco/te3270.git
+[submodule "testgen"]
+	path = testgen
+	url = git@github.com:builderworksco/testgen.git
