@@ -13,3 +13,6 @@
 [submodule "testgen"]
 	path = testgen
 	url = git@github.com:builderworksco/testgen.git
+[submodule "hellocuke"]
+	path = hellocuke
+	url = git@github.com:neopragma/hellocuke.git
